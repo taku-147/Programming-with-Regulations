@@ -1,4 +1,4 @@
-# Programming-woth-Regulations
+# Programming-with-Regulations
 [内部向け]大富豪で負けました。
 
 printf禁止
