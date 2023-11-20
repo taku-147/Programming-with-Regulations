@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 void math(unsigned int a, unsigned int b) {
     fprintf(stdout, "a b? >");
